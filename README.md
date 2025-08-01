@@ -77,6 +77,7 @@ An interactive and intelligent web app that uses a Support Vector Machine (SVM) 
 ## 🙋‍♂️ Author
 
 **Saidul Islam**
+
 🔗 ![LinkedIn](https://www.linkedin.com/in/saidulislam2003/)
 🐙 ![GitHub](https://github.com/saidulislam2003/Breast-Cancer-Detector/tree/main)
 
