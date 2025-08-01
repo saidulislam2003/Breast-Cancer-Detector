@@ -57,3 +57,18 @@ An interactive and intelligent web app that uses a Support Vector Machine (SVM) 
    ```bash
    git clone https://github.com/saidulislam2003/Breast-Cancer-Detector.git
    cd Breast-Cancer-Detector
+2. **Create a virtual environment (optional but recommended)**:
+   ```
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. **Install dependencies**:
+   ```
+   pip install -r requirements.txt
+   ```
+
+4. **Run the app**:
+   ```
+   streamlit run streamlit_app.py
+   ```
